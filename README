@@ -1,3 +1,4 @@
 Thanks to Reddit User https://www.reddit.com/user/OneTurnMore This bash script exists. 
+Script can also be gotten at https://gitlab.com/xPMo/snippets/blob/master/shell/playerctl-zscroll.sh
 Place the script in $HOME/.config/polybar/
 example of calling of script is in config file(provided aswell)
