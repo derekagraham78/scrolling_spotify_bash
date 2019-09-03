@@ -1,0 +1,3 @@
+Thanks to Reddit User https://www.reddit.com/user/OneTurnMore This bash script exists. 
+Place the script in $HOME/.config/polybar/
+example of calling of script is in config file(provided aswell)
