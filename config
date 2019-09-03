@@ -171,17 +171,6 @@ interval = 1
 format-underline = #00DE14
 click-left = exec playerctl play-pause
 
-
-
-[module/spotify1]
-type = custom/script
-label-font = 0
-interval = 1
-format-prefix = " "
-format = <label>
-exec = python /home/derek/.config/polybar/spotify/spotify_status.py -f ' {artist} - {song} '
-format-underline = #1db954
-
 [module/xwindow]
 type = internal/xwindow
 label = %title:0:30:...%
